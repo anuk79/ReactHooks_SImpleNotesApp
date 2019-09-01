@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactHooks_SImpleNotesApp/static/css/main.2cb2917f.chunk.css",
+    "main.js": "/ReactHooks_SImpleNotesApp/static/js/main.be11ae03.chunk.js",
+    "main.js.map": "/ReactHooks_SImpleNotesApp/static/js/main.be11ae03.chunk.js.map",
+    "runtime~main.js": "/ReactHooks_SImpleNotesApp/static/js/runtime~main.aa344257.js",
+    "runtime~main.js.map": "/ReactHooks_SImpleNotesApp/static/js/runtime~main.aa344257.js.map",
+    "static/js/2.d2922a89.chunk.js": "/ReactHooks_SImpleNotesApp/static/js/2.d2922a89.chunk.js",
+    "static/js/2.d2922a89.chunk.js.map": "/ReactHooks_SImpleNotesApp/static/js/2.d2922a89.chunk.js.map",
+    "index.html": "/ReactHooks_SImpleNotesApp/index.html",
+    "precache-manifest.3198ce3f4ea5379c5c6b0ac7c42f761c.js": "/ReactHooks_SImpleNotesApp/precache-manifest.3198ce3f4ea5379c5c6b0ac7c42f761c.js",
+    "service-worker.js": "/ReactHooks_SImpleNotesApp/service-worker.js",
+    "static/css/main.2cb2917f.chunk.css.map": "/ReactHooks_SImpleNotesApp/static/css/main.2cb2917f.chunk.css.map"
+  }
+}
